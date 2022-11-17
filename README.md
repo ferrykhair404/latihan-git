@@ -1,2 +1,2 @@
-# latihan_git
+# latihan-git
 repository_untuk_belajar_git
